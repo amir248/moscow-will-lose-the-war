@@ -20,5 +20,6 @@ if(window.innerWidth>1100){
   <p style="background:rgba(10,100,0,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/facking-moscow/'>facking-moscow</a></p>
   <p style="background:rgba(0,0,100,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/muscovite/'>мАсковщина</a></p>
   <p style="background:rgba(0,10,10,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/war-against-moscow/'>война</a></p>
+  <p style="background:rgba(0,255,0,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/victory-over-fascist-moscow/'>война</a></p>
   `;
 }
