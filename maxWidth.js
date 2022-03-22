@@ -25,5 +25,6 @@ if(window.innerWidth>1100){
   <p style="background:rgba(100,150,0,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/fackNews/'>Fack news</a></p>
   <p style="background:rgba(10,150,70,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/knoll/'>Пипочка knoll</a></p>
   <p style="background:rgba(150,100,0,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/nazi-mAscow/'>nazi-mAscow</a></p>
+  <p style="background:rgba(150,100,0,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/communist-for-rats/'>communist</a></p>
   `;
 }
