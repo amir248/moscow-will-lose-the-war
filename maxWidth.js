@@ -31,5 +31,6 @@ if(window.innerWidth>1100){
   <p style="background:rgba(10,255,0,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/power-is-in-the-truth/'>power-is-in-the-truth</a></p>
   <p style="background:rgba(130,130,0,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/concentration-camp/'>concentration-camp</a></p>
     <p style="background:rgba(255,255,255,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/moscow-s-hungry-swoon/'>moscow-s-hungry-swoon</a></p>
+    <p style="background:rgba(180,50,15,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/moscow-psychosis/'>moscow-psychosis</a></p>
   `;
 }
