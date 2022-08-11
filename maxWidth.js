@@ -33,6 +33,6 @@ if(window.innerWidth>1100){
     <p style="background:rgba(255,255,255,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/moscow-s-hungry-swoon/'>moscow-s-hungry-swoon</a></p>
     <p style="background:rgba(180,50,15,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/moscow-psychosis/'>moscow-psychosis</a></p>
   <p style="background:rgba(150,50,15,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/the-law-is-not-written-for-fools/'>The-law-is-not-written-for-fools</a></p>
-  <p style="background:rgba(170,70,170,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/the-law-is-not-written-for-fools/'>Completed Moscow a bunch of scum (final)</a></p>
+  <p style="background:rgba(170,70,170,0.3);margin:1%;border-radius:7px; text-align:center;"><a href='https://amir248.github.io/bunch-of-scum/'>Completed Moscow a bunch of scum (final)</a></p>
   `;
 }
